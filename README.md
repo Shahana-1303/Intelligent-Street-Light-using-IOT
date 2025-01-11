@@ -3,6 +3,7 @@ This project aims to enhance urban street lighting by developing an Intelligent 
 By reducing reliance on non-renewable energy and enabling real-time brightness adjustments based on traffic and environmental conditions, the system promotes sustainability. 
 IoT integration allows for continuous monitoring and remote fault detection, lowering maintenance costs and downtime. 
 Overall, this initiative seeks to modernize street lighting infrastructure, improve safety, and create a more environmentally friendly urban environment.
+
 #include &lt;Wire.h&gt;
 #include &lt;RTClib.h&gt;
 #include &lt;LiquidCrystal_I2C.h&gt;
